@@ -1,0 +1,51 @@
+id,appointment_number,patient_id,doctor_id,appointment_date,time_slot,reason_for_visit,status,booking_type
+1,APT-2025-00001,1,2,2025-01-15,09:30 AM - 10:00 AM,Follow-up for blood pressure and lipid medication review,COMPLETED,DESK
+2,APT-2025-00002,2,3,2025-01-20,10:30 AM - 11:00 AM,Quarterly diabetic evaluation and HbA1c review,COMPLETED,PORTAL
+3,APT-2025-00003,3,4,2025-01-25,11:30 AM - 12:00 PM,Recurrent migraine headaches and visual blurriness,COMPLETED,DESK
+4,APT-2025-00004,4,5,2025-01-30,02:00 PM - 02:30 PM,Post-surgical knee rehabilitation assessment,COMPLETED,PORTAL
+5,APT-2025-00005,5,6,2025-02-04,03:30 PM - 04:00 PM,Seasonal allergy and dry cough consultation,COMPLETED,DESK
+6,APT-2025-00006,6,7,2025-02-09,04:30 PM - 05:00 PM,Child routine developmental milestone vaccination,COMPLETED,PORTAL
+7,APT-2025-00007,7,2,2025-02-14,09:30 AM - 10:00 AM,Antenatal ultrasound scan review and nutrition advice,COMPLETED,DESK
+8,APT-2025-00008,8,3,2025-02-19,10:30 AM - 11:00 AM,Second opinion on cardiology echo report,COMPLETED,PORTAL
+9,APT-2025-00009,9,4,2025-02-24,11:30 AM - 12:00 PM,Follow-up for blood pressure and lipid medication review,COMPLETED,DESK
+10,APT-2025-00010,10,5,2025-03-01,02:00 PM - 02:30 PM,Quarterly diabetic evaluation and HbA1c review,COMPLETED,PORTAL
+11,APT-2025-00011,11,6,2025-03-06,03:30 PM - 04:00 PM,Recurrent migraine headaches and visual blurriness,COMPLETED,DESK
+12,APT-2025-00012,12,7,2025-03-11,04:30 PM - 05:00 PM,Post-surgical knee rehabilitation assessment,COMPLETED,PORTAL
+13,APT-2025-00013,13,2,2025-03-16,09:30 AM - 10:00 AM,Seasonal allergy and dry cough consultation,COMPLETED,DESK
+14,APT-2025-00014,14,3,2025-03-21,10:30 AM - 11:00 AM,Child routine developmental milestone vaccination,COMPLETED,PORTAL
+15,APT-2025-00015,15,4,2025-03-26,11:30 AM - 12:00 PM,Antenatal ultrasound scan review and nutrition advice,COMPLETED,DESK
+16,APT-2025-00016,16,5,2025-03-31,02:00 PM - 02:30 PM,Second opinion on cardiology echo report,COMPLETED,PORTAL
+17,APT-2025-00017,17,6,2025-04-05,03:30 PM - 04:00 PM,Follow-up for blood pressure and lipid medication review,COMPLETED,DESK
+18,APT-2025-00018,18,7,2025-04-10,04:30 PM - 05:00 PM,Quarterly diabetic evaluation and HbA1c review,COMPLETED,PORTAL
+19,APT-2025-00019,19,2,2025-04-15,09:30 AM - 10:00 AM,Recurrent migraine headaches and visual blurriness,COMPLETED,DESK
+20,APT-2025-00020,20,3,2025-04-20,10:30 AM - 11:00 AM,Post-surgical knee rehabilitation assessment,COMPLETED,PORTAL
+21,APT-2025-00021,1,4,2025-04-25,11:30 AM - 12:00 PM,Seasonal allergy and dry cough consultation,COMPLETED,DESK
+22,APT-2025-00022,2,5,2025-04-30,02:00 PM - 02:30 PM,Child routine developmental milestone vaccination,COMPLETED,PORTAL
+23,APT-2025-00023,3,6,2025-05-05,03:30 PM - 04:00 PM,Antenatal ultrasound scan review and nutrition advice,COMPLETED,DESK
+24,APT-2025-00024,4,7,2025-05-10,04:30 PM - 05:00 PM,Second opinion on cardiology echo report,COMPLETED,PORTAL
+25,APT-2025-00025,5,2,2025-05-15,09:30 AM - 10:00 AM,Follow-up for blood pressure and lipid medication review,COMPLETED,DESK
+26,APT-2025-00026,6,3,2025-05-20,10:30 AM - 11:00 AM,Quarterly diabetic evaluation and HbA1c review,COMPLETED,PORTAL
+27,APT-2025-00027,7,4,2025-05-25,11:30 AM - 12:00 PM,Recurrent migraine headaches and visual blurriness,COMPLETED,DESK
+28,APT-2025-00028,8,5,2025-05-30,02:00 PM - 02:30 PM,Post-surgical knee rehabilitation assessment,COMPLETED,PORTAL
+29,APT-2025-00029,9,6,2025-06-04,03:30 PM - 04:00 PM,Seasonal allergy and dry cough consultation,COMPLETED,DESK
+30,APT-2025-00030,10,7,2025-06-09,04:30 PM - 05:00 PM,Child routine developmental milestone vaccination,COMPLETED,PORTAL
+31,APT-2025-00031,11,2,2025-06-14,09:30 AM - 10:00 AM,Antenatal ultrasound scan review and nutrition advice,CONFIRMED,DESK
+32,APT-2025-00032,12,3,2025-06-19,10:30 AM - 11:00 AM,Second opinion on cardiology echo report,CONFIRMED,PORTAL
+33,APT-2025-00033,13,4,2025-06-24,11:30 AM - 12:00 PM,Follow-up for blood pressure and lipid medication review,CONFIRMED,DESK
+34,APT-2025-00034,14,5,2025-06-29,02:00 PM - 02:30 PM,Quarterly diabetic evaluation and HbA1c review,CONFIRMED,PORTAL
+35,APT-2025-00035,15,6,2025-07-04,03:30 PM - 04:00 PM,Recurrent migraine headaches and visual blurriness,CONFIRMED,DESK
+36,APT-2025-00036,16,7,2025-07-09,04:30 PM - 05:00 PM,Post-surgical knee rehabilitation assessment,CONFIRMED,PORTAL
+37,APT-2025-00037,17,2,2025-07-14,09:30 AM - 10:00 AM,Seasonal allergy and dry cough consultation,CONFIRMED,DESK
+38,APT-2025-00038,18,3,2025-07-19,10:30 AM - 11:00 AM,Child routine developmental milestone vaccination,CONFIRMED,PORTAL
+39,APT-2025-00039,19,4,2025-07-24,11:30 AM - 12:00 PM,Antenatal ultrasound scan review and nutrition advice,CONFIRMED,DESK
+40,APT-2025-00040,20,5,2025-07-29,02:00 PM - 02:30 PM,Second opinion on cardiology echo report,CONFIRMED,PORTAL
+41,APT-2025-00041,1,6,2025-08-03,03:30 PM - 04:00 PM,Follow-up for blood pressure and lipid medication review,CONFIRMED,DESK
+42,APT-2025-00042,2,7,2025-08-08,04:30 PM - 05:00 PM,Quarterly diabetic evaluation and HbA1c review,CONFIRMED,PORTAL
+43,APT-2025-00043,3,2,2025-08-13,09:30 AM - 10:00 AM,Recurrent migraine headaches and visual blurriness,SCHEDULED,DESK
+44,APT-2025-00044,4,3,2025-08-18,10:30 AM - 11:00 AM,Post-surgical knee rehabilitation assessment,SCHEDULED,PORTAL
+45,APT-2025-00045,5,4,2025-08-23,11:30 AM - 12:00 PM,Seasonal allergy and dry cough consultation,SCHEDULED,DESK
+46,APT-2025-00046,6,5,2025-08-28,02:00 PM - 02:30 PM,Child routine developmental milestone vaccination,SCHEDULED,PORTAL
+47,APT-2025-00047,7,6,2025-09-02,03:30 PM - 04:00 PM,Antenatal ultrasound scan review and nutrition advice,SCHEDULED,DESK
+48,APT-2025-00048,8,7,2025-09-07,04:30 PM - 05:00 PM,Second opinion on cardiology echo report,SCHEDULED,PORTAL
+49,APT-2025-00049,9,2,2025-09-12,09:30 AM - 10:00 AM,Follow-up for blood pressure and lipid medication review,SCHEDULED,DESK
+50,APT-2025-00050,10,3,2025-09-17,10:30 AM - 11:00 AM,Quarterly diabetic evaluation and HbA1c review,SCHEDULED,PORTAL

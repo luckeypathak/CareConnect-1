@@ -1,0 +1,53 @@
+id,order_id,item_code,item_name,instructions,status
+1,1,LAB-CBC,Complete Blood Count (CBC),Collect EDTA sample in morning,COMPLETED
+2,2,IMG-XR-CHEST,Chest X-Ray PA View,Rule out lung consolidation / cardiomegaly,COMPLETED
+3,3,MED-TELMA40,Telma 40mg (Telmisartan),One tablet OD in morning,COMPLETED
+4,4,PROC-ECG,12-Lead Electrocardiogram,Evaluate ST-T changes and QT interval,COMPLETED
+5,5,LAB-CBC,Complete Blood Count (CBC),Collect EDTA sample in morning,COMPLETED
+6,6,IMG-XR-CHEST,Chest X-Ray PA View,Rule out lung consolidation / cardiomegaly,COMPLETED
+7,7,MED-TELMA40,Telma 40mg (Telmisartan),One tablet OD in morning,COMPLETED
+8,8,PROC-ECG,12-Lead Electrocardiogram,Evaluate ST-T changes and QT interval,COMPLETED
+9,9,LAB-CBC,Complete Blood Count (CBC),Collect EDTA sample in morning,COMPLETED
+10,10,IMG-XR-CHEST,Chest X-Ray PA View,Rule out lung consolidation / cardiomegaly,COMPLETED
+11,11,MED-TELMA40,Telma 40mg (Telmisartan),One tablet OD in morning,COMPLETED
+12,12,PROC-ECG,12-Lead Electrocardiogram,Evaluate ST-T changes and QT interval,COMPLETED
+13,13,LAB-CBC,Complete Blood Count (CBC),Collect EDTA sample in morning,COMPLETED
+14,14,IMG-XR-CHEST,Chest X-Ray PA View,Rule out lung consolidation / cardiomegaly,COMPLETED
+15,15,MED-TELMA40,Telma 40mg (Telmisartan),One tablet OD in morning,COMPLETED
+16,16,PROC-ECG,12-Lead Electrocardiogram,Evaluate ST-T changes and QT interval,COMPLETED
+17,17,LAB-CBC,Complete Blood Count (CBC),Collect EDTA sample in morning,COMPLETED
+18,18,IMG-XR-CHEST,Chest X-Ray PA View,Rule out lung consolidation / cardiomegaly,COMPLETED
+19,19,MED-TELMA40,Telma 40mg (Telmisartan),One tablet OD in morning,COMPLETED
+20,20,PROC-ECG,12-Lead Electrocardiogram,Evaluate ST-T changes and QT interval,COMPLETED
+21,21,LAB-CBC,Complete Blood Count (CBC),Collect EDTA sample in morning,COMPLETED
+22,22,IMG-XR-CHEST,Chest X-Ray PA View,Rule out lung consolidation / cardiomegaly,COMPLETED
+23,23,MED-TELMA40,Telma 40mg (Telmisartan),One tablet OD in morning,COMPLETED
+24,24,PROC-ECG,12-Lead Electrocardiogram,Evaluate ST-T changes and QT interval,COMPLETED
+25,25,LAB-CBC,Complete Blood Count (CBC),Collect EDTA sample in morning,COMPLETED
+26,26,IMG-XR-CHEST,Chest X-Ray PA View,Rule out lung consolidation / cardiomegaly,COMPLETED
+27,27,MED-TELMA40,Telma 40mg (Telmisartan),One tablet OD in morning,COMPLETED
+28,28,PROC-ECG,12-Lead Electrocardiogram,Evaluate ST-T changes and QT interval,COMPLETED
+29,29,LAB-CBC,Complete Blood Count (CBC),Collect EDTA sample in morning,COMPLETED
+30,30,IMG-XR-CHEST,Chest X-Ray PA View,Rule out lung consolidation / cardiomegaly,COMPLETED
+31,31,MED-TELMA40,Telma 40mg (Telmisartan),One tablet OD in morning,COMPLETED
+32,32,PROC-ECG,12-Lead Electrocardiogram,Evaluate ST-T changes and QT interval,COMPLETED
+33,33,LAB-CBC,Complete Blood Count (CBC),Collect EDTA sample in morning,COMPLETED
+34,34,IMG-XR-CHEST,Chest X-Ray PA View,Rule out lung consolidation / cardiomegaly,COMPLETED
+35,35,MED-TELMA40,Telma 40mg (Telmisartan),One tablet OD in morning,COMPLETED
+36,36,PROC-ECG,12-Lead Electrocardiogram,Evaluate ST-T changes and QT interval,COMPLETED
+37,37,LAB-CBC,Complete Blood Count (CBC),Collect EDTA sample in morning,COMPLETED
+38,38,IMG-XR-CHEST,Chest X-Ray PA View,Rule out lung consolidation / cardiomegaly,COMPLETED
+39,39,MED-TELMA40,Telma 40mg (Telmisartan),One tablet OD in morning,COMPLETED
+40,40,PROC-ECG,12-Lead Electrocardiogram,Evaluate ST-T changes and QT interval,COMPLETED
+41,41,LAB-CBC,Complete Blood Count (CBC),Collect EDTA sample in morning,PENDING
+42,42,IMG-XR-CHEST,Chest X-Ray PA View,Rule out lung consolidation / cardiomegaly,PENDING
+43,43,MED-TELMA40,Telma 40mg (Telmisartan),One tablet OD in morning,PENDING
+44,44,PROC-ECG,12-Lead Electrocardiogram,Evaluate ST-T changes and QT interval,PENDING
+45,45,LAB-CBC,Complete Blood Count (CBC),Collect EDTA sample in morning,PENDING
+46,46,IMG-XR-CHEST,Chest X-Ray PA View,Rule out lung consolidation / cardiomegaly,PENDING
+47,47,MED-TELMA40,Telma 40mg (Telmisartan),One tablet OD in morning,PENDING
+48,48,PROC-ECG,12-Lead Electrocardiogram,Evaluate ST-T changes and QT interval,PENDING
+49,49,LAB-CBC,Complete Blood Count (CBC),Collect EDTA sample in morning,PENDING
+50,50,IMG-XR-CHEST,Chest X-Ray PA View,Rule out lung consolidation / cardiomegaly,PENDING
+51,51,MED-TELMA40,Telma 40mg (Telmisartan),One tablet OD in morning,PENDING
+52,52,PROC-ECG,12-Lead Electrocardiogram,Evaluate ST-T changes and QT interval,PENDING

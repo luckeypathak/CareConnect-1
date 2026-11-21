@@ -1,0 +1,16 @@
+id,patient_id,allergen_name,allergen_type,severity,reaction,recorded_date,status
+1,1,Penicillin,DRUG,SEVERE,Urticaria and bronchospasm,2023-05-10,ACTIVE
+2,1,Peanuts,FOOD,MODERATE,Facial swelling and rash,2022-01-14,ACTIVE
+3,3,Sulfa Drugs,DRUG,SEVERE,Stevens-Johnson like cutaneous erythema,2021-08-20,ACTIVE
+4,4,Aspirin,DRUG,SEVERE,Wheezing and acute asthma flare,2020-11-05,ACTIVE
+5,5,Latex,ENVIRONMENTAL,MILD,Contact dermatitis on palms,2024-02-18,ACTIVE
+6,7,Ciprofloxacin,DRUG,MODERATE,"Severe nausea, tremors and abdominal cramps",2023-09-12,ACTIVE
+7,8,Dust Mites,ENVIRONMENTAL,MILD,Allergic rhinitis and sneezing,2019-03-22,ACTIVE
+8,10,Ibuprofen,DRUG,SEVERE,Gastrointestinal bleeding and epigastric burning,2022-07-30,ACTIVE
+9,12,Shellfish,FOOD,MODERATE,Angioedema of lips and hives,2020-04-16,ACTIVE
+10,13,Amoxicillin,DRUG,SEVERE,Generalised pruritic rash,2024-01-25,ACTIVE
+11,14,Pollen,ENVIRONMENTAL,MILD,Seasonal allergic conjunctivitis,2021-02-11,ACTIVE
+12,18,Contrast Dye (Iodinated),DRUG,SEVERE,Anaphylactoid flush and dyspnea,2023-12-04,ACTIVE
+13,19,Cow Milk Protein,FOOD,MODERATE,Atopic eczema and loose stools,2024-03-01,ACTIVE
+14,2,Metronidazole,DRUG,MILD,"Metallic taste, headache and mild nausea",2023-10-15,ACTIVE
+15,6,Egg Albumin,FOOD,MILD,Mild erythema around perioral region,2022-06-18,ACTIVE

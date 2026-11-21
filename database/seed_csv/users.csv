@@ -1,0 +1,17 @@
+id,username,email,password_hash,first_name,last_name,role_id,phone_number,is_active,is_staff
+1,admin,admin@careconnect.in,pbkdf2_sha256$600000$CareConnectSalt$N8m87V6lZpQvN4hXwBq1Y+vX8iE=,Rajesh,Sharma,1,+91-9810112233,1,1
+2,dr_arun_verma,arun.verma@careconnect.in,pbkdf2_sha256$600000$CareConnectSalt$DocArunHashVal1234567890=,Arun,Verma,2,+91-9820223344,1,0
+3,dr_priya_nair,priya.nair@careconnect.in,pbkdf2_sha256$600000$CareConnectSalt$DocPriyaHashVal123456789=,Priya,Nair,2,+91-9830334455,1,0
+4,dr_vikram_patel,vikram.patel@careconnect.in,pbkdf2_sha256$600000$CareConnectSalt$DocVikramHashVal12345678=,Vikram,Patel,2,+91-9840445566,1,0
+5,dr_sneha_kulkarni,sneha.k@careconnect.in,pbkdf2_sha256$600000$CareConnectSalt$DocSnehaHashVal123456789=,Sneha,Kulkarni,2,+91-9850556677,1,0
+6,dr_mohammed_tariq,m.tariq@careconnect.in,pbkdf2_sha256$600000$CareConnectSalt$DocTariqHashVal123456789=,Mohammed,Tariq,2,+91-9860667788,1,0
+7,dr_ananya_sen,ananya.sen@careconnect.in,pbkdf2_sha256$600000$CareConnectSalt$DocAnanyaHashVal12345678=,Ananya,Sen,2,+91-9870778899,1,0
+8,nurse_sunita_devi,sunita.devi@careconnect.in,pbkdf2_sha256$600000$CareConnectSalt$NurseSunitaHashVal123456=,Sunita,Devi,4,+91-9880889900,1,0
+9,nurse_deepak_rawat,deepak.rawat@careconnect.in,pbkdf2_sha256$600000$CareConnectSalt$NurseDeepakHashVal123456=,Deepak,Rawat,4,+91-9890990011,1,0
+10,labtech_manish_gupta,manish.gupta@careconnect.in,pbkdf2_sha256$600000$CareConnectSalt$LabManishHashVal12345678=,Manish,Gupta,5,+91-9900112233,1,0
+11,patient_rohit_mehta,rohit.mehta@gmail.com,pbkdf2_sha256$600000$CareConnectSalt$PatientRohitHashVal123456=,Rohit,Mehta,3,+91-9911223344,1,0
+12,patient_kavita_singh,kavita.singh@yahoo.com,pbkdf2_sha256$600000$CareConnectSalt$PatientKavitaHashVal12345=,Kavita,Singh,3,+91-9922334455,1,0
+13,patient_amitabh_joshi,amitabh.j@outlook.com,pbkdf2_sha256$600000$CareConnectSalt$PatientAmitabhHashVal1234=,Amitabh,Joshi,3,+91-9933445566,1,0
+14,patient_meera_iyer,meera.iyer@rediffmail.com,pbkdf2_sha256$600000$CareConnectSalt$PatientMeeraHashVal123456=,Meera,Iyer,3,+91-9944556677,1,0
+15,patient_suresh_reddy,suresh.reddy@gmail.com,pbkdf2_sha256$600000$CareConnectSalt$PatientSureshHashVal12345=,Suresh,Reddy,3,+91-9955667788,1,0
+16,dr_arun_verma_jr,arun.verma.jr@careconnect.in,pbkdf2_sha256$600000$CareConnectSalt$DocArunJrHashVal12345678=,Arun,Verma,2,+91-9820223399,1,0

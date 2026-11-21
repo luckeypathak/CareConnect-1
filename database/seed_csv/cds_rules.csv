@@ -1,0 +1,11 @@
+id,rule_code,title,rule_category,description,severity_level,criteria_json,is_active
+1,CDS-DRUG-01,Aspirin + Enoxaparin Co-administration Alert,DRUG_INTERACTION,Concomitant use of Aspirin and Clexane increases severe gastrointestinal and systemic hemorrhage risk.,CRITICAL,"{""drugs"": [""Aspirin"", ""Enoxaparin Sodium""], ""action"": ""WARN_PREVENT""}",1
+2,CDS-DRUG-02,NSAID + ACE-Inhibitor / ARB Renal Warning,DRUG_INTERACTION,Ibuprofen paired with Telmisartan can attenuate antihypertensive effect and precipitate acute kidney injury.,HIGH,"{""drugs"": [""Ibuprofen"", ""Telmisartan""], ""action"": ""WARN""}",1
+3,CDS-ALLERGY-01,Penicillin Class Allergy Warning,ALLERGY_ALERT,Patient has known allergy to Penicillin. Prescribing Augmentin (Amoxicillin) risks anaphylaxis.,CRITICAL,"{""allergen"": ""Penicillin"", ""drug_class"": ""Beta-Lactam"", ""action"": ""BLOCK""}",1
+4,CDS-ALLERGY-02,Sulfa Drug Hypersensitivity Alert,ALLERGY_ALERT,Patient allergic to Sulfonamides. Check cross-reactivity with prescribed diuretics or oral hypoglycemics.,HIGH,"{""allergen"": ""Sulfa"", ""action"": ""WARN""}",1
+5,CDS-VITAL-01,Stage 2 Hypertensive Crisis Alert,VITAL_ALERT,Systolic blood pressure >= 160 mmHg or Diastolic >= 100 mmHg recorded. Immediate physician review needed.,HIGH,"{""systolic_threshold"": 160, ""diastolic_threshold"": 100}",1
+6,CDS-VITAL-02,Tachycardia Alert,VITAL_ALERT,Resting heart rate >= 120 bpm recorded. Perform ECG and assess volume status.,MEDIUM,"{""hr_threshold"": 120}",1
+7,CDS-VITAL-03,Severe Hypoxia Alert,VITAL_ALERT,SpO2 level below 92% detected on room air. Initiate oxygen therapy immediately.,CRITICAL,"{""spo2_threshold"": 92.0}",1
+8,CDS-DOSAGE-01,Metformin in Renal Impairment,DOSAGE_ALERT,Metformin contraindicated or dose reduction required when Serum Creatinine > 1.5 mg/dL due to lactic acidosis risk.,HIGH,"{""creatinine_threshold"": 1.5}",1
+9,CDS-VITAL-04,Hypothermia / High Fever Alert,VITAL_ALERT,Body temperature above 103.0 F detected. Prescribe antipyretics and infectious workup.,MEDIUM,"{""temp_threshold"": 103.0}",1
+10,CDS-ALLERGY-03,Aspirin-Exacerbated Respiratory Disease,ALLERGY_ALERT,Patient has Aspirin/NSAID allergy with history of bronchial asthma.,HIGH,"{""allergen"": ""Aspirin"", ""action"": ""BLOCK""}",1

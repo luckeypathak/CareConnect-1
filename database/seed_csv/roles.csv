@@ -1,0 +1,6 @@
+id,role_code,role_name,description
+1,ADMIN,Hospital System Administrator,Full privileges across all modules and audit logs
+2,DOCTOR,Licensed Medical Practitioner,"Clinical documentation, CPOE orders, prescriptions, CDS alerts"
+3,PATIENT,Registered Patient,"Access to patient portal, personal records, messaging, appointments"
+4,NURSE,Clinical Registered Nurse,"Vital signs entry, medication administration, triage documentation"
+5,LAB_TECH,Laboratory & Imaging Specialist,"Lab test results entry, imaging study coordination"

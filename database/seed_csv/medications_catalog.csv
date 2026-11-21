@@ -1,0 +1,16 @@
+id,drug_code,brand_name,generic_name,dosage_form,strength,route,manufacturer,unit_price_inr,is_active
+1,DRUG-001,Paracip 650,Paracetamol,Tablet,650mg,Oral,Cipla Ltd.,25.5,1
+2,DRUG-002,Augmentin 625 Duo,Amoxicillin + Clavulanic Acid,Tablet,625mg,Oral,GlaxoSmithKline,185.0,1
+3,DRUG-003,Glycomet GP 1,Metformin + Glimepiride,Tablet,500mg+1mg,Oral,USV Private Ltd,110.0,1
+4,DRUG-004,Telma 40,Telmisartan,Tablet,40mg,Oral,Glenmark Pharmaceuticals,145.0,1
+5,DRUG-005,Pan 40,Pantoprazole,Tablet,40mg,Oral,Alkem Laboratories,98.0,1
+6,DRUG-006,Atorva 10,Atorvastatin,Tablet,10mg,Oral,Zydus Cadila,130.0,1
+7,DRUG-007,Montair LC,Montelukast + Levocetirizine,Tablet,10mg+5mg,Oral,Cipla Ltd.,195.0,1
+8,DRUG-008,Azithral 500,Azithromycin,Tablet,500mg,Oral,Alembic Pharmaceuticals,125.0,1
+9,DRUG-009,Ecosprin 75,Aspirin,Tablet,75mg,Oral,USV Private Ltd,18.5,1
+10,DRUG-010,Clexane 40mg,Enoxaparin Sodium,Injection,40mg/0.4ml,Subcutaneous,Sanofi India,540.0,1
+11,DRUG-011,Omee D,Omeprazole + Domperidone,Capsule,20mg+10mg,Oral,Alkem Laboratories,82.0,1
+12,DRUG-012,Monocef 1g,Ceftriaxone,Injection,1000mg,IV/IM,Aristo Pharma,75.0,1
+13,DRUG-013,Combiflam,Ibuprofen + Paracetamol,Tablet,400mg+325mg,Oral,Sanofi India,45.0,1
+14,DRUG-014,Budecort Inhaler 200,Budesonide,Inhaler,200mcg,Inhalation,Cipla Ltd.,320.0,1
+15,DRUG-015,Thyronorm 50,Levothyroxine Sodium,Tablet,50mcg,Oral,Abbott India,160.0,1

@@ -1,0 +1,11 @@
+id,user_id,department,specialization,license_number,qualification,experience_years,consultation_fee_inr
+1,2,Cardiology,Interventional Cardiologist,MCI-DEL-2012-4589,"MBBS, MD (Medicine), DM (Cardio)",14,1000.0
+2,3,General Medicine,Internal Medicine Consultant,MCI-UP-2015-7821,"MBBS, MD (Internal Medicine)",11,600.0
+3,4,Pediatrics,Consultant Pediatrician,MCI-GUJ-2016-3390,"MBBS, DCH, DNB (Pediatrics)",10,700.0
+4,5,Obstetrics & Gynecology,Gynecologist & Obstetrician,MCI-MAH-2014-9912,"MBBS, MS (OBGYN), FICOG",12,800.0
+5,6,Orthopedics,Joint Replacement Surgeon,MCI-DEL-2010-1123,"MBBS, MS (Orthopedics)",16,900.0
+6,7,Endocrinology,Diabetologist & Endocrinologist,MCI-WB-2017-5432,"MBBS, MD, DM (Endocrinology)",9,850.0
+7,8,Nursing,ICU Head Nurse,INC-UP-2018-8765,B.Sc. Nursing,8,200.0
+8,9,Nursing,Emergency Triage Nurse,INC-DEL-2019-2341,B.Sc. Nursing,7,200.0
+9,10,Pathology & Imaging,Senior Diagnostic Technologist,AIMS-DEL-2015-8812,M.Sc. Medical Lab Technology,11,250.0
+10,16,Cardiology,Junior Cardiology Fellow,MCI-DEL-2023-8891,"MBBS, DNB (Cardiology)",3,500.0

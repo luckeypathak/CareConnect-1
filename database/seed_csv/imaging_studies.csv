@@ -1,0 +1,26 @@
+id,order_item_id,patient_id,modality,body_site,study_date,accession_number,dicom_link,status
+1,1,2,X-RAY,Chest PA,2024-02-08 16:30:00,ACC-2024-0001,https://pacs.careconnect.in/studies/ACC-2024-0001/dicom-viewer,COMPLETED
+2,2,4,CT,Brain Axial View,2024-03-03 20:30:00,ACC-2024-0002,https://pacs.careconnect.in/studies/ACC-2024-0002/dicom-viewer,COMPLETED
+3,3,6,MRI,Lumbar Spine AP/LAT,2024-03-28 00:30:00,ACC-2024-0003,https://pacs.careconnect.in/studies/ACC-2024-0003/dicom-viewer,COMPLETED
+4,4,8,ULTRASOUND,Whole Abdomen & Pelvis,2024-04-20 14:30:00,ACC-2024-0004,https://pacs.careconnect.in/studies/ACC-2024-0004/dicom-viewer,COMPLETED
+5,5,10,ECHO,2D Echocardiography,2024-05-14 18:30:00,ACC-2024-0005,https://pacs.careconnect.in/studies/ACC-2024-0005/dicom-viewer,COMPLETED
+6,6,12,X-RAY,Chest PA,2024-06-07 22:30:00,ACC-2024-0006,https://pacs.careconnect.in/studies/ACC-2024-0006/dicom-viewer,COMPLETED
+7,7,14,CT,Brain Axial View,2024-07-01 12:30:00,ACC-2024-0007,https://pacs.careconnect.in/studies/ACC-2024-0007/dicom-viewer,COMPLETED
+8,8,16,MRI,Lumbar Spine AP/LAT,2024-07-25 16:30:00,ACC-2024-0008,https://pacs.careconnect.in/studies/ACC-2024-0008/dicom-viewer,COMPLETED
+9,9,18,ULTRASOUND,Whole Abdomen & Pelvis,2024-08-18 20:30:00,ACC-2024-0009,https://pacs.careconnect.in/studies/ACC-2024-0009/dicom-viewer,COMPLETED
+10,10,20,ECHO,2D Echocardiography,2024-09-12 00:30:00,ACC-2024-0010,https://pacs.careconnect.in/studies/ACC-2024-0010/dicom-viewer,COMPLETED
+11,11,2,X-RAY,Chest PA,2024-10-05 14:30:00,ACC-2024-0011,https://pacs.careconnect.in/studies/ACC-2024-0011/dicom-viewer,COMPLETED
+12,12,4,CT,Brain Axial View,2024-10-29 18:30:00,ACC-2024-0012,https://pacs.careconnect.in/studies/ACC-2024-0012/dicom-viewer,COMPLETED
+13,13,6,MRI,Lumbar Spine AP/LAT,2024-11-22 22:30:00,ACC-2024-0013,https://pacs.careconnect.in/studies/ACC-2024-0013/dicom-viewer,COMPLETED
+14,14,8,ULTRASOUND,Whole Abdomen & Pelvis,2024-12-16 12:30:00,ACC-2024-0014,https://pacs.careconnect.in/studies/ACC-2024-0014/dicom-viewer,COMPLETED
+15,15,10,ECHO,2D Echocardiography,2025-01-09 16:30:00,ACC-2025-0015,https://pacs.careconnect.in/studies/ACC-2025-0015/dicom-viewer,COMPLETED
+16,16,12,X-RAY,Chest PA,2025-02-02 20:30:00,ACC-2025-0016,https://pacs.careconnect.in/studies/ACC-2025-0016/dicom-viewer,COMPLETED
+17,17,14,CT,Brain Axial View,2025-02-27 00:30:00,ACC-2025-0017,https://pacs.careconnect.in/studies/ACC-2025-0017/dicom-viewer,COMPLETED
+18,18,16,MRI,Lumbar Spine AP/LAT,2025-03-22 14:30:00,ACC-2025-0018,https://pacs.careconnect.in/studies/ACC-2025-0018/dicom-viewer,COMPLETED
+19,19,18,ULTRASOUND,Whole Abdomen & Pelvis,2025-04-15 18:30:00,ACC-2025-0019,https://pacs.careconnect.in/studies/ACC-2025-0019/dicom-viewer,COMPLETED
+20,20,20,ECHO,2D Echocardiography,2025-05-09 22:30:00,ACC-2025-0020,https://pacs.careconnect.in/studies/ACC-2025-0020/dicom-viewer,COMPLETED
+21,21,2,X-RAY,Chest PA,2025-06-02 12:30:00,ACC-2025-0021,https://pacs.careconnect.in/studies/ACC-2025-0021/dicom-viewer,COMPLETED
+22,22,4,CT,Brain Axial View,2025-06-26 16:30:00,ACC-2025-0022,https://pacs.careconnect.in/studies/ACC-2025-0022/dicom-viewer,COMPLETED
+23,23,6,MRI,Lumbar Spine AP/LAT,2025-07-20 20:30:00,ACC-2025-0023,https://pacs.careconnect.in/studies/ACC-2025-0023/dicom-viewer,COMPLETED
+24,24,8,ULTRASOUND,Whole Abdomen & Pelvis,2025-08-14 00:30:00,ACC-2025-0024,https://pacs.careconnect.in/studies/ACC-2025-0024/dicom-viewer,COMPLETED
+25,25,10,ECHO,2D Echocardiography,2025-09-06 14:30:00,ACC-2025-0025,https://pacs.careconnect.in/studies/ACC-2025-0025/dicom-viewer,COMPLETED

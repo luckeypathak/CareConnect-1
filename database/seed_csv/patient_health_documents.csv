@@ -1,0 +1,26 @@
+id,patient_id,title,document_type,file_path,notes,uploaded_at
+1,1,Discharge Summary - Record #1,DISCHARGE_SUMMARY,/media/patient_documents/uhid_1_discharge_summary_1.pdf,Official verified health document uploaded for patient ID 1,2024-06-19 00:00:00
+2,2,Lab Report - Record #2,LAB_REPORT,/media/patient_documents/uhid_2_lab_report_2.pdf,Official verified health document uploaded for patient ID 2,2024-07-07 00:00:00
+3,3,Prescription - Record #3,PRESCRIPTION,/media/patient_documents/uhid_3_prescription_3.pdf,Official verified health document uploaded for patient ID 3,2024-07-25 00:00:00
+4,4,Insurance - Record #4,INSURANCE,/media/patient_documents/uhid_4_insurance_4.pdf,Official verified health document uploaded for patient ID 4,2024-08-12 00:00:00
+5,5,Other - Record #5,OTHER,/media/patient_documents/uhid_5_other_5.pdf,Official verified health document uploaded for patient ID 5,2024-08-30 00:00:00
+6,6,Discharge Summary - Record #6,DISCHARGE_SUMMARY,/media/patient_documents/uhid_6_discharge_summary_6.pdf,Official verified health document uploaded for patient ID 6,2024-09-17 00:00:00
+7,7,Lab Report - Record #7,LAB_REPORT,/media/patient_documents/uhid_7_lab_report_7.pdf,Official verified health document uploaded for patient ID 7,2024-10-05 00:00:00
+8,8,Prescription - Record #8,PRESCRIPTION,/media/patient_documents/uhid_8_prescription_8.pdf,Official verified health document uploaded for patient ID 8,2024-10-23 00:00:00
+9,9,Insurance - Record #9,INSURANCE,/media/patient_documents/uhid_9_insurance_9.pdf,Official verified health document uploaded for patient ID 9,2024-11-10 00:00:00
+10,10,Other - Record #10,OTHER,/media/patient_documents/uhid_10_other_10.pdf,Official verified health document uploaded for patient ID 10,2024-11-28 00:00:00
+11,11,Discharge Summary - Record #11,DISCHARGE_SUMMARY,/media/patient_documents/uhid_11_discharge_summary_11.pdf,Official verified health document uploaded for patient ID 11,2024-12-16 00:00:00
+12,12,Lab Report - Record #12,LAB_REPORT,/media/patient_documents/uhid_12_lab_report_12.pdf,Official verified health document uploaded for patient ID 12,2025-01-03 00:00:00
+13,13,Prescription - Record #13,PRESCRIPTION,/media/patient_documents/uhid_13_prescription_13.pdf,Official verified health document uploaded for patient ID 13,2025-01-21 00:00:00
+14,14,Insurance - Record #14,INSURANCE,/media/patient_documents/uhid_14_insurance_14.pdf,Official verified health document uploaded for patient ID 14,2025-02-08 00:00:00
+15,15,Other - Record #15,OTHER,/media/patient_documents/uhid_15_other_15.pdf,Official verified health document uploaded for patient ID 15,2025-02-26 00:00:00
+16,16,Discharge Summary - Record #16,DISCHARGE_SUMMARY,/media/patient_documents/uhid_16_discharge_summary_16.pdf,Official verified health document uploaded for patient ID 16,2025-03-16 00:00:00
+17,17,Lab Report - Record #17,LAB_REPORT,/media/patient_documents/uhid_17_lab_report_17.pdf,Official verified health document uploaded for patient ID 17,2025-04-03 00:00:00
+18,18,Prescription - Record #18,PRESCRIPTION,/media/patient_documents/uhid_18_prescription_18.pdf,Official verified health document uploaded for patient ID 18,2025-04-21 00:00:00
+19,19,Insurance - Record #19,INSURANCE,/media/patient_documents/uhid_19_insurance_19.pdf,Official verified health document uploaded for patient ID 19,2025-05-09 00:00:00
+20,20,Other - Record #20,OTHER,/media/patient_documents/uhid_20_other_20.pdf,Official verified health document uploaded for patient ID 20,2025-05-27 00:00:00
+21,1,Discharge Summary - Record #21,DISCHARGE_SUMMARY,/media/patient_documents/uhid_1_discharge_summary_21.pdf,Official verified health document uploaded for patient ID 1,2025-06-14 00:00:00
+22,2,Lab Report - Record #22,LAB_REPORT,/media/patient_documents/uhid_2_lab_report_22.pdf,Official verified health document uploaded for patient ID 2,2025-07-02 00:00:00
+23,3,Prescription - Record #23,PRESCRIPTION,/media/patient_documents/uhid_3_prescription_23.pdf,Official verified health document uploaded for patient ID 3,2025-07-20 00:00:00
+24,4,Insurance - Record #24,INSURANCE,/media/patient_documents/uhid_4_insurance_24.pdf,Official verified health document uploaded for patient ID 4,2025-08-07 00:00:00
+25,5,Other - Record #25,OTHER,/media/patient_documents/uhid_5_other_25.pdf,Official verified health document uploaded for patient ID 5,2025-08-25 00:00:00

@@ -1,0 +1,31 @@
+id,sender_id,receiver_id,patient_id,subject,message_body,is_read,sent_at
+1,11,2,1,Blood Sugar Log Update,"Respected Doctor, my morning fasting blood sugar was 114 mg/dL today. Should I continue the same Glycomet dose?",1,2025-02-03 11:00:00
+2,12,3,2,Prescription Refill Request,"Dear Dr. Verma, I have 3 days left of my Telma 40 tablets. Could you kindly authorize a 30-day refill?",1,2025-02-05 12:00:00
+3,13,4,3,Lab Report Clarification,"Hello Doctor, I received my lipid profile report on the portal. Cholesterol is 210 mg/dL. Is this fine?",1,2025-02-07 13:00:00
+4,14,5,4,Post Consultation Query,Thank you for the consultation yesterday. The knee pain has lessened significantly after the first dose.,1,2025-02-09 14:00:00
+5,15,6,5,Rescheduling Appointment,"Dear Reception, I need to reschedule my Friday appointment to next Monday morning if a slot is open.",1,2025-02-11 15:00:00
+6,11,2,1,Blood Sugar Log Update,"Respected Doctor, my morning fasting blood sugar was 114 mg/dL today. Should I continue the same Glycomet dose?",1,2025-02-13 16:00:00
+7,12,3,2,Prescription Refill Request,"Dear Dr. Verma, I have 3 days left of my Telma 40 tablets. Could you kindly authorize a 30-day refill?",1,2025-02-15 17:00:00
+8,13,4,3,Lab Report Clarification,"Hello Doctor, I received my lipid profile report on the portal. Cholesterol is 210 mg/dL. Is this fine?",1,2025-02-17 18:00:00
+9,14,5,4,Post Consultation Query,Thank you for the consultation yesterday. The knee pain has lessened significantly after the first dose.,1,2025-02-19 19:00:00
+10,15,6,5,Rescheduling Appointment,"Dear Reception, I need to reschedule my Friday appointment to next Monday morning if a slot is open.",1,2025-02-21 20:00:00
+11,11,2,1,Blood Sugar Log Update,"Respected Doctor, my morning fasting blood sugar was 114 mg/dL today. Should I continue the same Glycomet dose?",1,2025-02-23 21:00:00
+12,12,3,2,Prescription Refill Request,"Dear Dr. Verma, I have 3 days left of my Telma 40 tablets. Could you kindly authorize a 30-day refill?",1,2025-02-25 10:00:00
+13,13,4,3,Lab Report Clarification,"Hello Doctor, I received my lipid profile report on the portal. Cholesterol is 210 mg/dL. Is this fine?",1,2025-02-27 11:00:00
+14,14,5,4,Post Consultation Query,Thank you for the consultation yesterday. The knee pain has lessened significantly after the first dose.,1,2025-03-01 12:00:00
+15,15,6,5,Rescheduling Appointment,"Dear Reception, I need to reschedule my Friday appointment to next Monday morning if a slot is open.",1,2025-03-03 13:00:00
+16,11,2,1,Blood Sugar Log Update,"Respected Doctor, my morning fasting blood sugar was 114 mg/dL today. Should I continue the same Glycomet dose?",1,2025-03-05 14:00:00
+17,12,3,2,Prescription Refill Request,"Dear Dr. Verma, I have 3 days left of my Telma 40 tablets. Could you kindly authorize a 30-day refill?",1,2025-03-07 15:00:00
+18,13,4,3,Lab Report Clarification,"Hello Doctor, I received my lipid profile report on the portal. Cholesterol is 210 mg/dL. Is this fine?",1,2025-03-09 16:00:00
+19,14,5,4,Post Consultation Query,Thank you for the consultation yesterday. The knee pain has lessened significantly after the first dose.,1,2025-03-11 17:00:00
+20,15,6,5,Rescheduling Appointment,"Dear Reception, I need to reschedule my Friday appointment to next Monday morning if a slot is open.",1,2025-03-13 18:00:00
+21,11,2,1,Blood Sugar Log Update,"Respected Doctor, my morning fasting blood sugar was 114 mg/dL today. Should I continue the same Glycomet dose?",1,2025-03-15 19:00:00
+22,12,3,2,Prescription Refill Request,"Dear Dr. Verma, I have 3 days left of my Telma 40 tablets. Could you kindly authorize a 30-day refill?",1,2025-03-17 20:00:00
+23,13,4,3,Lab Report Clarification,"Hello Doctor, I received my lipid profile report on the portal. Cholesterol is 210 mg/dL. Is this fine?",0,2025-03-19 21:00:00
+24,14,5,4,Post Consultation Query,Thank you for the consultation yesterday. The knee pain has lessened significantly after the first dose.,0,2025-03-21 10:00:00
+25,15,6,5,Rescheduling Appointment,"Dear Reception, I need to reschedule my Friday appointment to next Monday morning if a slot is open.",0,2025-03-23 11:00:00
+26,11,2,1,Blood Sugar Log Update,"Respected Doctor, my morning fasting blood sugar was 114 mg/dL today. Should I continue the same Glycomet dose?",0,2025-03-25 12:00:00
+27,12,3,2,Prescription Refill Request,"Dear Dr. Verma, I have 3 days left of my Telma 40 tablets. Could you kindly authorize a 30-day refill?",0,2025-03-27 13:00:00
+28,13,4,3,Lab Report Clarification,"Hello Doctor, I received my lipid profile report on the portal. Cholesterol is 210 mg/dL. Is this fine?",0,2025-03-29 14:00:00
+29,14,5,4,Post Consultation Query,Thank you for the consultation yesterday. The knee pain has lessened significantly after the first dose.,0,2025-03-31 15:00:00
+30,15,6,5,Rescheduling Appointment,"Dear Reception, I need to reschedule my Friday appointment to next Monday morning if a slot is open.",0,2025-04-02 16:00:00

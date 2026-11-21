@@ -1,0 +1,21 @@
+id,patient_id,encounter_id,rule_id,alert_title,alert_message,severity,triggered_at,acknowledged_by,acknowledgement_notes
+1,1,1,1,Drug-Drug Critical Interaction Detected,Concomitant prescription of Aspirin with Enoxaparin (Clexane) increases high-potency gastrointestinal bleeding hazard.,CRITICAL,2024-02-15 10:15:00,2,Doctor reviewed: dose adjusted and gastro-protection added
+2,1,1,3,Patient Penicillin Allergy Alert,Patient Rohit Mehta has registered severe allergy to Penicillin. Beta-lactam antibiotic prescription flagged.,CRITICAL,2024-02-15 10:18:00,2,Switched to non-penicillin alternative (Azithromycin)
+3,3,3,2,Drug Interaction: NSAID + ARB,Telmisartan co-prescribed with Ibuprofen poses reversible nephrotoxicity and blunts BP reduction.,HIGH,2024-03-10 11:45:00,3,Advised patient on hydration; monitoring creatinine
+4,7,7,5,Stage 2 Hypertensive Crisis Warning,Patient recorded blood pressure of 175/105 mmHg exceeding hypertensive emergency threshold.,HIGH,2024-04-12 14:20:00,2,Emergency anti-hypertensive administered stat
+5,4,4,10,Aspirin Sensitivity Alert,Meera Iyer has severe bronchospastic reaction to Aspirin. NSAID avoided.,HIGH,2024-05-02 09:40:00,5,Prescribed safe alternative Paracetamol
+6,10,10,5,Elevated Systolic Blood Pressure,Systolic reading 168 mmHg detected during OPD triage.,MEDIUM,2024-06-18 16:30:00,3,Acknowledged and repeated reading after 15 min rest
+7,12,12,7,Critical Oxygen Saturation (SpO2),Oxygen saturation 91.5% detected on room air. Acute respiratory workup needed.,CRITICAL,2024-07-22 18:10:00,3,Supplemental nasal oxygen initiated at 2L/min
+8,13,13,3,Amoxicillin Allergy Override,Patient marked allergic to Amoxicillin. Prescription prevented by CPOE.,CRITICAL,2024-08-05 10:05:00,4,Cancelled order item; substituted with Cefixime
+9,18,18,4,Iodinated Radiocontrast Caution,Patient marked allergic to CT contrast. Non-contrast study advised.,HIGH,2024-09-11 12:50:00,2,Non-contrast MRI ordered instead
+10,2,2,6,Sinus Tachycardia Detected,Resting pulse rate recorded at 122 bpm in emergency triage.,MEDIUM,2024-10-01 15:30:00,8,Physician notified; fluid resuscitation begun
+11,12,12,2,Automated Clinical Decision Alert #11,Routine surveillance triggered guideline recommendation for encounter ENC-2024-00012.,HIGH,2024-06-07 19:30:00,2,Acknowledged by attending consultant.
+12,13,13,3,Automated Clinical Decision Alert #12,Routine surveillance triggered guideline recommendation for encounter ENC-2024-00013.,MEDIUM,2024-06-19 21:30:00,2,Acknowledged by attending consultant.
+13,14,14,4,Automated Clinical Decision Alert #13,Routine surveillance triggered guideline recommendation for encounter ENC-2024-00014.,HIGH,2024-07-01 09:30:00,2,Acknowledged by attending consultant.
+14,15,15,5,Automated Clinical Decision Alert #14,Routine surveillance triggered guideline recommendation for encounter ENC-2024-00015.,MEDIUM,2024-07-13 11:30:00,2,Acknowledged by attending consultant.
+15,16,16,1,Automated Clinical Decision Alert #15,Routine surveillance triggered guideline recommendation for encounter ENC-2024-00016.,HIGH,2024-07-25 13:30:00,2,Acknowledged by attending consultant.
+16,17,17,2,Automated Clinical Decision Alert #16,Routine surveillance triggered guideline recommendation for encounter ENC-2024-00017.,MEDIUM,2024-08-06 15:30:00,2,Acknowledged by attending consultant.
+17,18,18,3,Automated Clinical Decision Alert #17,Routine surveillance triggered guideline recommendation for encounter ENC-2024-00018.,HIGH,2024-08-18 17:30:00,2,Acknowledged by attending consultant.
+18,19,19,4,Automated Clinical Decision Alert #18,Routine surveillance triggered guideline recommendation for encounter ENC-2024-00019.,MEDIUM,2024-08-30 19:30:00,2,Acknowledged by attending consultant.
+19,20,20,5,Automated Clinical Decision Alert #19,Routine surveillance triggered guideline recommendation for encounter ENC-2024-00020.,HIGH,2024-09-11 21:30:00,2,Acknowledged by attending consultant.
+20,1,21,1,Automated Clinical Decision Alert #20,Routine surveillance triggered guideline recommendation for encounter ENC-2024-00021.,MEDIUM,2024-09-23 09:30:00,2,Acknowledged by attending consultant.

@@ -1,0 +1,21 @@
+id,patient_id,contact_name,relationship,phone_number,is_primary
+1,1,Pooja Mehta,Spouse,+91-9911223399,1
+2,2,Ramesh Singh,Spouse,+91-9922334499,1
+3,3,Alok Joshi,Son,+91-9933445599,1
+4,4,K. Narayanan,Father,+91-9944556699,1
+5,5,Lakshmi Reddy,Spouse,+91-9955667799,1
+6,6,Rajesh Aggarwal,Father,+91-9811234500,1
+7,7,Gurpreet Kaur,Spouse,+91-9822345600,1
+8,8,Vimla Choudhary,Spouse,+91-9833456700,1
+9,9,Subhash Mukherjee,Father,+91-9844567800,1
+10,10,Kishore Rao,Son,+91-9855678900,1
+11,11,Ritu Bhatia,Mother,+91-9866789000,1
+12,12,Mahesh Prasad,Brother,+91-9877890100,1
+13,13,Sanjay Deshmukh,Spouse,+91-9888901200,1
+14,14,Nandini Verma,Spouse,+91-9899012300,1
+15,15,Dinesh Pandey,Father,+91-9900123400,1
+16,16,Sita Devi,Sister,+91-9911001199,1
+17,17,Sunita Mehta,Mother,+91-9922002299,1
+18,18,Gayathri Varadarajan,Spouse,+91-9933003399,1
+19,19,Vikas Sharma,Father,+91-9944004499,1
+20,20,Kailash Chand,Son,+91-9955005599,1
